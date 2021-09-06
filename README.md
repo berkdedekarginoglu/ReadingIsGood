@@ -4,12 +4,12 @@ ReadingIsGood  .Net Web API servisi ile hazırlanmış bir online kitap satış 
 
 Projenin geliştirilme sürecinde çok katmanlı mimari tasarım modeli baz alınmıştır.
 
-###Gereksinimler
+### Gereksinimler
 
 - [.Net Core (RunTime) 5.0](https://dotnet.microsoft.com/download/dotnet/5.0/runtime ".Net Core (RunTime) 5.0")
 
 
-###Kullanılan Teknolojiler ve Paketler
+###K ullanılan Teknolojiler ve Paketler
 - [Swagger](https://github.com/swagger-api "Swagger")
 - [FluentValidation](https://fluentvalidation.net/ "FluentValidation")
 - [Json Web Token](https://jwt.io/ "Json Web Token")
