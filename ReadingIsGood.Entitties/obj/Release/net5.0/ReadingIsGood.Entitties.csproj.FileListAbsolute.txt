@@ -1,0 +1,15 @@
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\bin\Release\net5.0\ReadingIsGood.Entitties.deps.json
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\bin\Release\net5.0\ReadingIsGood.Entitties.dll
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\bin\Release\net5.0\ref\ReadingIsGood.Entitties.dll
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\bin\Release\net5.0\ReadingIsGood.Entitties.pdb
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\bin\Release\net5.0\ReadingIsGood.Core.dll
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\bin\Release\net5.0\ReadingIsGood.Core.pdb
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\obj\Release\net5.0\ReadingIsGood.Entitties.csproj.AssemblyReference.cache
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\obj\Release\net5.0\ReadingIsGood.Entitties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\obj\Release\net5.0\ReadingIsGood.Entitties.AssemblyInfoInputs.cache
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\obj\Release\net5.0\ReadingIsGood.Entitties.AssemblyInfo.cs
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\obj\Release\net5.0\ReadingIsGood.Entitties.csproj.CoreCompileInputs.cache
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\obj\Release\net5.0\ReadingIsGood.Entitties.csproj.CopyComplete
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\obj\Release\net5.0\ReadingIsGood.Entitties.dll
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\obj\Release\net5.0\ref\ReadingIsGood.Entitties.dll
+C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.Entitties\obj\Release\net5.0\ReadingIsGood.Entitties.pdb

@@ -1,0 +1,10 @@
+2021-09-06 17:05:22.129 +03:00 [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5001
+2021-09-06 17:05:22.136 +03:00 [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5000
+2021-09-06 17:05:22.139 +03:00 [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2021-09-06 17:05:22.141 +03:00 [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2021-09-06 17:05:22.144 +03:00 [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.WebAPI
+2021-09-06 17:06:44.891 +03:00 [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5001
+2021-09-06 17:06:44.898 +03:00 [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5000
+2021-09-06 17:06:44.901 +03:00 [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2021-09-06 17:06:44.904 +03:00 [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2021-09-06 17:06:44.906 +03:00 [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Users\berkd\source\repos\ReadingIsGood\ReadingIsGood.WebAPI
