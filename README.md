@@ -9,7 +9,7 @@ Projenin geliştirilme sürecinde çok katmanlı mimari tasarım modeli baz alı
 - [.Net Core (RunTime) 5.0](https://dotnet.microsoft.com/download/dotnet/5.0/runtime ".Net Core (RunTime) 5.0")
 
 
-###K ullanılan Teknolojiler ve Paketler
+### Kullanılan Teknolojiler ve Paketler
 - [Swagger](https://github.com/swagger-api "Swagger")
 - [FluentValidation](https://fluentvalidation.net/ "FluentValidation")
 - [Json Web Token](https://jwt.io/ "Json Web Token")
